@@ -29,7 +29,7 @@ Este projeto contém testes automatizados para garantir a qualidade e o funciona
 
 1. Clone o repositório:
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/carolinajusto2382/desafio-cypress-QA
 cd desafio-cypress-QA
 ```
 
